@@ -1,0 +1,11 @@
+/* Commenting in CSS files is handled this way */
+
+div{
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
