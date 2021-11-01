@@ -1,0 +1,20 @@
+.oddelement{
+    background-color:rgb(238, 142, 158);
+    color: black;
+    font-family: Verdana, sans-serif;
+}
+
+.element3{
+    font-size: 24px;
+}
+
+#idelement2{
+    color: blue;
+    font-size: 36px;
+}
+
+#idelement4{
+    background-color: rgb(68, 226, 129);
+    font-size: 24px;
+    font-weight: bold;
+}
